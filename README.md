@@ -10,6 +10,9 @@
     <td align="center"><img src="https://github.com/user-attachments/assets/7215f9d3-4de5-4f98-81d3-d29c14738877" width="200" /></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/51784b6d-03d8-4991-ab22-f7519d7582d2" width="200" /></td>
   </tr>
+   <tr>
+    <td colspan="10" style="height: 40px;"></td>  <!-- 👈 Yeh gap add karega -->
+  </tr>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/671e92c8-f8f9-4c95-8e17-7e6735cf84b7" width="200" /></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/9323f590-efab-4b8e-bc74-88f7c7502e4d" width="200" /></td>
